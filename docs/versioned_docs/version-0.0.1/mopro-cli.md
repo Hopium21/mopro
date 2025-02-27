@@ -102,7 +102,7 @@ Initialize, build and test a circuit with Rust bindings:
     mopro build
     ```
 
--   Run end-to-end-test
+-   Run end-to-end test
 
     ```sh
     mopro test
